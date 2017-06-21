@@ -5,9 +5,10 @@ The aim of the project is to create a small fractal exploration program.
 <img align = "center" src = "images/fractol.png" width = "100%"/>
 
 ### Requirements
-- minilibx
-- libx11-dev
-- libxext-dev
+- linux or macos
+- installed minilibx
+- libx11-dev and libxext-dev for linux
+- framework OpenGL and framework AppKit for mac
 
 ### How does it work?
 	git clone --recursive https://github.com/Alexandritikus/fractol
