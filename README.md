@@ -4,6 +4,11 @@ The aim of the project is to create a small fractal exploration program.
 
 <img align = "center" src = "images/fractol.png" width = "100%"/>
 
+### Requirements
+- minilibx
+- libx11-dev
+- libxext-dev
+
 ### How does it work?
 	git clone --recursive https://github.com/Alexandritikus/fractol
 	cd fractol
